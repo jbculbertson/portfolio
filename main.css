@@ -1,13 +1,23 @@
+footer {
+  height: 10vh;
+}
+
 h2 {
   text-align: center;
 }
 
-.caption {
-  text-align: center;
+.about_me_section {
+  height: 75vh;
 }
 
-footer {
-  height: 10vh;
+.about_me_picture {
+  border-radius: 100%;
+  height: auto;
+  width: 70%;
+}
+
+.caption {
+  text-align: center;
 }
 
 .jumbotron {
@@ -16,18 +26,8 @@ footer {
   height: 100vh;
 }
 
-.about_me_section {
-  height: 75vh;
-
-}
-.about_me_picture {
-  border-radius: 100%;
-  height: auto;
-  width: 70%;
-}
-
 .navbar {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .skills_image {
